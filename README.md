@@ -41,7 +41,7 @@ La finalidad principal de la aplicación es proporcionar una experiencia integra
 #### Planificación
 - Fase 1: Definición del Alcance y Preparación Inicial (Semana 1 - 2)
   - Semana 1: Investigación y selección de las tecnologías a utilizar, incluyendo React y React Router.
-Obtención de la clave de API de TheMovieDB.
+Obtención de la clave de API de LaLiga.
   - Semana 2:
      - Diseño inicial de la estructura de la aplicación y su interfaz de usuario.
      - Creación de un repositorio de código en un sistema de control de versiones como Git.
